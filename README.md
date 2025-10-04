@@ -1,6 +1,6 @@
 # 004 — Calculator (HTML + CSS)
 
-A minimal **calculator** interface built with plain **HTML** and **CSS**. This is a static layout (no JS logic), perfect for Daily-UI style exercises or CSS layout practice. 
+A minimal **calculator** interface built with plain **HTML** and **CSS**. This is a static layout (no JS logic), perfect for Daily UI style exercises or CSS layout practice. 
 
 ---
 
